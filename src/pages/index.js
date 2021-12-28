@@ -10,6 +10,9 @@ const IndexPage = () => (
     <Seo title="Home" />
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
+  <h2>What is Gatsby?</h2>
+  </p>
+Gatsby is an open-source framework that combines functionality from React, GraphQL and Webpack into a single tool for building static websites and apps. Owing to the fast performance of the sites it powers, impressive out-of-the-box features like code splitting, and friendly developer experience, Gatsby is fast becoming a staple of modern web development.</p>
     <p>Now go build something great.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
